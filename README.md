@@ -1,4 +1,4 @@
-#Simple Linear Regression on Housing Prices
+Simple Linear Regression on Housing Prices
 
 Algorithm : Linear Regression
 
