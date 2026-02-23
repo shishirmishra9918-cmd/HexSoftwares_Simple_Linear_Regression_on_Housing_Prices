@@ -1,4 +1,4 @@
-# HOUSE PRICE PREDICTION
+#Simple Linear Regression on Housing Prices
 
 Algorithm : Linear Regression
 
